@@ -2,7 +2,10 @@
 
 A detailed reference on Debezium, Kafka, Flink and retrieval-augmented generation behind assistants like J.P. Morgan's Connect Coach and its treasury analytics tools, grounded in public reporting and current research.
 
-Prepared for Eric Ren, October 7, 2026.
+---
+
+
+October 7, 2026.
 
 ---
 
